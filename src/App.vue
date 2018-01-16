@@ -13,6 +13,8 @@ export default {
 <style>
   body{
     background: #f5f5f5;
+    margin: 0;
+    padding: 0;
   }
   #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -20,6 +22,5 @@ export default {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
-    margin-top: 60px;
   }
 </style>
